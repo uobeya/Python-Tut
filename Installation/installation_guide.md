@@ -1,4 +1,4 @@
-his guide will walk you through installing Python on Windows and introduce some popular IDEs for Python development.
+This guide will walk you through installing Python on Windows and introduce some popular IDEs for Python development.
 
 Step 1: Download Python
 Open a browser and go to the official Python website: https://www.python.org.
